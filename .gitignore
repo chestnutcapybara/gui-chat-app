@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore trash files
+
+.DS_Store
+desktop.ini
+
+# Ignore virtual environments
+
+.venv/
+venv/
+.env/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
